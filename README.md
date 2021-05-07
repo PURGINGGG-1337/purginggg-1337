@@ -1,16 +1,21 @@
-### Hi there 👋
+![PURGINGGG stats](https://github-readme-stats.vercel.app/api?username=PURGINGGG-1337&show_icons=true&theme=tokyonight)
 
-<!--
-**PURGINGGG-1337/purginggg-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const PURGINGGG = {
+    age: 12,
+    from: "Algeria",
+    Discord: "+213 PURGINGGG#5170",
+    technologies: {
+        languages: ["NodeJS","HTML","CSS","JavaScript"],
+        database: ["MySQL"],
+    },
+};
+console.log(PURGINGGG)
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/PURGINGGG-1337?tab=followers">
+  <img src="https://img.shields.io/github/followers/PURGINGGG-1337">
+</a>
+<a href="https://github.com/PURGINGGG-1337">
+   <img src="https://komarev.com/ghpvc/?username=PURGINGGG-1337">
+</a>
