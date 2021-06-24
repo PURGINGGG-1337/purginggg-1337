@@ -6,8 +6,8 @@ const PURGINGGG = {
     from: "Algeria",
     Discord: "+213 PURGINGGG#5170",
     technologies: {
-        languages: ["NodeJS","HTML","CSS","JavaScript"],
-        database: ["MySQL"],
+        languages: ["NodeJS","HTML","Python","CSS","JavaScript"],
+        database: ["MySQL", "MongoDB", "Sqlite3"],
     },
 };
 console.log(PURGINGGG)
