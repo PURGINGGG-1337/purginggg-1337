@@ -2,9 +2,9 @@
 
 ```js
 const PURGINGGG = {
-    age: 12,
+    age: 14,
     from: "Algeria",
-    Discord: "+213 PURGINGGG#5170",
+    Discord: "Keraz.#0001",
     technologies: {
         languages: ["NodeJS","HTML","Python","CSS","JavaScript"],
         database: ["MySQL", "MongoDB", "Sqlite3"],
